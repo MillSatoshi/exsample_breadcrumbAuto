@@ -1,0 +1,16 @@
+.breadcrumb-item {
+  display: inline-block;
+  margin-right: 5px;
+  text-decoration: none;
+  color: #000000;
+}
+
+.breadcrumb-item:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb-latest-item {
+  display: inline-block;
+  color: #696969;
+  margin-right: 5px;
+}
